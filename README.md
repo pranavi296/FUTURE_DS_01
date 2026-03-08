@@ -77,3 +77,12 @@ Purpose: Understand territory-level strengths and weaknesses.
 * Insight Extraction from Transactional Data
 
 
+## Key Insights
+
+* Technology category generated the highest sales and profit, making it the most important revenue driver for the business.
+* Furniture category showed lower profit margins compared to its sales, indicating that higher discounts or operational costs may be reducing profitability.
+* The West region contributed the highest overall profit, while some regions generated lower margins despite having reasonable sales.
+* Discounts have a strong impact on profitability — higher discount rates often lead to a noticeable decrease in profit.
+* Consumer segment contributed the largest share of total sales, followed by Corporate and Home Office segments.
+
+* Sales trends vary across months, suggesting seasonal demand patterns in retail purchasing behavior.
