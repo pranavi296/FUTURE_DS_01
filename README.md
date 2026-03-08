@@ -1,4 +1,4 @@
-#  Retail Sales Performance Dashboard
+#  Business Sales Performance Dashboard
 
 
 ##  Overview
