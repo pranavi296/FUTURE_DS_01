@@ -9,7 +9,6 @@ The objective was to move beyond basic visualization and focus on extracting mea
 
 This project reflects practical data analysis skills relevant to business intelligence and data analytics roles.
 
----
 
 ##  Project Objectives
 
@@ -21,7 +20,6 @@ This project reflects practical data analysis skills relevant to business intell
 * Compare customer segments based on revenue and profit contribution
 * Design a clean, executive-level dashboard for decision-making
 
----
 
 ##  Dashboard Features
 
@@ -35,7 +33,6 @@ This project reflects practical data analysis skills relevant to business intell
 
 These KPIs provide a quick snapshot of business health.
 
----
 
 ### 🔹 Sales Analysis
 
@@ -45,7 +42,6 @@ These KPIs provide a quick snapshot of business health.
 
 Purpose: Identify revenue drivers and growth patterns.
 
----
 
 ### 🔹 Profitability Analysis
 
@@ -55,7 +51,6 @@ Purpose: Identify revenue drivers and growth patterns.
 
 Purpose: Detect areas where high revenue does not translate into strong margins.
 
----
 
 ### 🔹 Regional Insights
 
@@ -64,19 +59,6 @@ Purpose: Detect areas where high revenue does not translate into strong margins.
 
 Purpose: Understand territory-level strengths and weaknesses.
 
----
-
-##  Key Insights
-
-* Certain categories generate high revenue but relatively lower profit margins due to discounting.
-* Regional performance varies significantly, directly impacting total profitability.
-* Sales demonstrate periodic variation, indicating seasonal buying behavior.
-* Profit growth does not always align with sales growth, highlighting the importance of margin analysis.
-
-(Replace this section with 2–3 actual numerical findings from your dashboard for stronger impact.)
-
----
-
 ##  Tools & Technologies Used
 
 * Power BI Desktop
@@ -84,7 +66,6 @@ Purpose: Understand territory-level strengths and weaknesses.
 * Data Modeling & Relationships
 * Data Cleaning & Transformation
 
----
 
 ##  Skills Demonstrated
 
@@ -95,5 +76,4 @@ Purpose: Understand territory-level strengths and weaknesses.
 * Data Storytelling through Visual Dashboards
 * Insight Extraction from Transactional Data
 
----
 
